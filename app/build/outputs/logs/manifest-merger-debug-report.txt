@@ -4,46 +4,64 @@ ADDED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidMani
 INJECTED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml:2:1-30:12
-MERGED from [com.google.android.material:material:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/d23a14032be95e1c0d49d848980659b4/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/utkarsh/.gradle/caches/transforms-3/38043517c514ada7a9c17da61d45b16b/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/utkarsh/.gradle/caches/transforms-3/011380f14fe4f68e8ce075cb6eccb796/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat:1.6.1] /home/utkarsh/.gradle/caches/transforms-3/58dd3f4812eb78824b955d86d3508d52/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/e2ead5f317d22088c48cad1a61f8b969/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.3.6] /home/utkarsh/.gradle/caches/transforms-3/aabd96d17d3f8389713fa62fe78ebf8d/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.6.0] /home/utkarsh/.gradle/caches/transforms-3/d41e8bf4b35ba9ac395bff8e37ad74bb/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/385e466706e73bb3d73bbe6b4875519d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/74dede7469dde4ebb849523538d1356b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/5ce07e52a7d4e86d32024963e64ae55f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/f2489d9065f4dca5ca4b308de42fbf04/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/a499c8d2b59af5c3d7b5f216dcb51a9d/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/0ee939d3497cce09e896af53913a88ae/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/412372332f980a5c4ef0364c55a99af0/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/47ac39755f246ef2ff54ad5b7942d42f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/e5a7f5c955953cc9d13feeef1215b998/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/9e273d98ab3096fcf193178fecca25fc/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/f64967c674a30b5964ec360f3fe1fd1e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/1cbb9568b0ad18efcfa640a8dc80d6d7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/aa8ac483add921dafa22eb66b84f2064/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/bebc84e5611febee61e63b319d718ccf/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/164e3c0afb92a7e3b5c15f9935adbebd/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.core:core-ktx:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/d7a05e02feb8fce1e9d06c86faa7fd90/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.savedstate:savedstate:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/49b48222c9092f86b8f1b7ce566730b4/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/utkarsh/.gradle/caches/transforms-3/c3ccb551a96d7464cbc7a567310b2d43/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/d61520087bb53d23a4e3afad5636d15d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/a8199b6bb025d711471524267dd78014/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/ecb295b800ded09051f724a4ba193524/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/3d0b12a6a2875ebc8055ad98f7863014/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/7f4858d3b05a121bbfdbd0f3702fd854/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/b9bab58cadaff330d559da69256a0313/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/4ed59577b3c31daa698d7cd9567771e1/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/utkarsh/.gradle/caches/transforms-3/79e57da9ef16725cd636178f64b7ce13/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/9b72d3a0628617d3f17d9cb77d3f51cf/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/utkarsh/.gradle/caches/transforms-3/0de8b80e80221d3f31c9086666059ce1/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/de2279805fd1769856255174ea323925/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/a91d0e13601b70491790d353890fd533/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/eb096476208bed94cd51cc904aa804e3/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/87b6f924c6c766718f595823a69da52a/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/aaa63957bf4d3c8a91ad1c399e9aa858/transformed/firebase-analytics-ktx-21.3.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/639e0823074540ef2a177a192c9a5c19/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.material:material:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/442371f7a683427c1c3aa2b948983960/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/utkarsh/.gradle/caches/transforms-3/9edb3184659a769cfd1a1e5ccb1b7663/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/utkarsh/.gradle/caches/transforms-3/ced682f124894883a886754fd3a9b895/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/utkarsh/.gradle/caches/transforms-3/a3b4638f085982b1d4469044739a2c58/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/27a2041208ad8bc99a080e7823bdbe82/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/198c3e9a1b8b08b984af19cf784ea90a/transformed/firebase-analytics-21.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /home/utkarsh/.gradle/caches/transforms-3/356c723115c1b96a92d9a8294e755319/transformed/firebase-installations-17.1.3/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/0fc0f987d52bd58a9ec360021f242f48/transformed/firebase-common-20.3.3/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/1cbfa107755c83bdfee6de7c78e986d8/transformed/play-services-measurement-sdk-21.3.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /home/utkarsh/.gradle/caches/transforms-3/691dd56c8ff08288b1ce50a9435449d2/transformed/firebase-installations-interop-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/utkarsh/.gradle/caches/transforms-3/a241533628e59bbbe136486110a9d426/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9062ac463cd037001933633ef261ebed/transformed/play-services-measurement-impl-21.3.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/utkarsh/.gradle/caches/transforms-3/7b0de162041d92dc9ece20eae86675d5/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/b7e8946ace01c30b5a24b51ed11478d4/transformed/play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/db4528da83a2548ae09fd4618795cfd7/transformed/play-services-measurement-base-21.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/utkarsh/.gradle/caches/transforms-3/9b1b7c546b170d3f6bd94796290dfa4e/transformed/play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/utkarsh/.gradle/caches/transforms-3/0fd5fab4501b430158d311c8c354b03b/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/utkarsh/.gradle/caches/transforms-3/d10e0a67e6cce9e2170f966c3470c152/transformed/play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/utkarsh/.gradle/caches/transforms-3/05e0e032afe8638653ef359082946af5/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /home/utkarsh/.gradle/caches/transforms-3/7abcdb52a31097d7928346f5971a74b4/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/b6241b19bde17d5fd7300311ce753f80/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/740f68c528a27b193c31975215d254aa/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/942187b9034be648cd10d68b3b07e873/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/301f5298453c00ec6aa21911a1cf1f86/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/aaf1031b7c089ab524eee885bb44d5e8/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/9cffc761fb4b3d6bc453ee348ecf8fc4/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/ba20206a3976f0ed5dc11d00c9389e77/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/8b769162006497cfd063a1a43d7e7d5e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/8e05fef9da720561fd085b6c9609646d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/ba72173ccc9319646d5ca79116c92fb0/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/4f8bd1b382e936853665a3a65dfbc6a5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/fcf1c39a2553fa7b01947143cbea7b81/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/27fece238f81d5f5874aa18f367d8269/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/387f730b03db6088c5490c53257d1068/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/d972e2b9a2d3231f9c30d13d66704161/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/331f56f37792526653d9ae5b0da2e26b/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/5cc2c19a797f15578dd78c605b044c91/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/a82c41e2fcd361030c7151571854c3f2/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/utkarsh/.gradle/caches/transforms-3/fe29a54af3c84b01983bf8b1f69bd3b1/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/f3c7fc7a692a39f1848cd26bc667bd42/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/1070233f650367c5d4a3ef19df90b692/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/92931c26ad08dd7deb5f4671c5e649dd/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/75bb41cd7661e79b849846ab63e28379/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/7225d2e546159bd9053e83d9c293c586/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/302b2ca992566a4cea119a1a5517cd16/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/37964fc6f6679bb7fcdea4331bf4b262/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/utkarsh/.gradle/caches/transforms-3/ea04a689ed464f026d5fe0132e864726/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/bf4d3f1154ab7888facdb7c8da9fdbd2/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/utkarsh/.gradle/caches/transforms-3/b233079611b5ea16e1448e00f286d3ca/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] /home/utkarsh/.gradle/caches/transforms-3/f24b097486ece9c74ab6352ff5a1cb7d/transformed/firebase-components-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/d755a1d3e9e21bf1d125d88d388e3853/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/d1822ebe0e3f8e4d4a0df1883531c616/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/aab3c179000643bbfb429e707dd65f1c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/9af6b051251fe69c8e1673d849ab7cb0/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 INJECTED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml:2:1-30:12
@@ -65,22 +83,52 @@ INJECTED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidM
 		ADDED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml:2:11-69
 application
 ADDED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml:5:5-28:19
-MERGED from [com.google.android.material:material:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/d23a14032be95e1c0d49d848980659b4/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.material:material:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/d23a14032be95e1c0d49d848980659b4/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/utkarsh/.gradle/caches/transforms-3/38043517c514ada7a9c17da61d45b16b/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/utkarsh/.gradle/caches/transforms-3/38043517c514ada7a9c17da61d45b16b/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/412372332f980a5c4ef0364c55a99af0/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/412372332f980a5c4ef0364c55a99af0/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/a8199b6bb025d711471524267dd78014/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/a8199b6bb025d711471524267dd78014/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/7f4858d3b05a121bbfdbd0f3702fd854/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/7f4858d3b05a121bbfdbd0f3702fd854/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/b9bab58cadaff330d559da69256a0313/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/b9bab58cadaff330d559da69256a0313/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/aaa63957bf4d3c8a91ad1c399e9aa858/transformed/firebase-analytics-ktx-21.3.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/aaa63957bf4d3c8a91ad1c399e9aa858/transformed/firebase-analytics-ktx-21.3.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/639e0823074540ef2a177a192c9a5c19/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/639e0823074540ef2a177a192c9a5c19/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.android.material:material:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/442371f7a683427c1c3aa2b948983960/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/442371f7a683427c1c3aa2b948983960/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/utkarsh/.gradle/caches/transforms-3/9edb3184659a769cfd1a1e5ccb1b7663/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/utkarsh/.gradle/caches/transforms-3/9edb3184659a769cfd1a1e5ccb1b7663/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/198c3e9a1b8b08b984af19cf784ea90a/transformed/firebase-analytics-21.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/198c3e9a1b8b08b984af19cf784ea90a/transformed/firebase-analytics-21.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /home/utkarsh/.gradle/caches/transforms-3/356c723115c1b96a92d9a8294e755319/transformed/firebase-installations-17.1.3/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /home/utkarsh/.gradle/caches/transforms-3/356c723115c1b96a92d9a8294e755319/transformed/firebase-installations-17.1.3/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/0fc0f987d52bd58a9ec360021f242f48/transformed/firebase-common-20.3.3/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/0fc0f987d52bd58a9ec360021f242f48/transformed/firebase-common-20.3.3/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/1cbfa107755c83bdfee6de7c78e986d8/transformed/play-services-measurement-sdk-21.3.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/1cbfa107755c83bdfee6de7c78e986d8/transformed/play-services-measurement-sdk-21.3.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/utkarsh/.gradle/caches/transforms-3/a241533628e59bbbe136486110a9d426/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/utkarsh/.gradle/caches/transforms-3/a241533628e59bbbe136486110a9d426/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9062ac463cd037001933633ef261ebed/transformed/play-services-measurement-impl-21.3.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9062ac463cd037001933633ef261ebed/transformed/play-services-measurement-impl-21.3.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/utkarsh/.gradle/caches/transforms-3/7b0de162041d92dc9ece20eae86675d5/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/utkarsh/.gradle/caches/transforms-3/7b0de162041d92dc9ece20eae86675d5/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/db4528da83a2548ae09fd4618795cfd7/transformed/play-services-measurement-base-21.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/db4528da83a2548ae09fd4618795cfd7/transformed/play-services-measurement-base-21.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/utkarsh/.gradle/caches/transforms-3/9b1b7c546b170d3f6bd94796290dfa4e/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/utkarsh/.gradle/caches/transforms-3/9b1b7c546b170d3f6bd94796290dfa4e/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/utkarsh/.gradle/caches/transforms-3/0fd5fab4501b430158d311c8c354b03b/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/utkarsh/.gradle/caches/transforms-3/0fd5fab4501b430158d311c8c354b03b/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/utkarsh/.gradle/caches/transforms-3/d10e0a67e6cce9e2170f966c3470c152/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/utkarsh/.gradle/caches/transforms-3/d10e0a67e6cce9e2170f966c3470c152/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/ba20206a3976f0ed5dc11d00c9389e77/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/ba20206a3976f0ed5dc11d00c9389e77/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/331f56f37792526653d9ae5b0da2e26b/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/331f56f37792526653d9ae5b0da2e26b/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/1070233f650367c5d4a3ef19df90b692/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/1070233f650367c5d4a3ef19df90b692/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/7225d2e546159bd9053e83d9c293c586/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/7225d2e546159bd9053e83d9c293c586/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/302b2ca992566a4cea119a1a5517cd16/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/302b2ca992566a4cea119a1a5517cd16/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/331f56f37792526653d9ae5b0da2e26b/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
@@ -125,86 +173,122 @@ uses-sdk
 INJECTED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml
 INJECTED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/d23a14032be95e1c0d49d848980659b4/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.material:material:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/d23a14032be95e1c0d49d848980659b4/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/utkarsh/.gradle/caches/transforms-3/38043517c514ada7a9c17da61d45b16b/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/utkarsh/.gradle/caches/transforms-3/38043517c514ada7a9c17da61d45b16b/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/utkarsh/.gradle/caches/transforms-3/011380f14fe4f68e8ce075cb6eccb796/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/utkarsh/.gradle/caches/transforms-3/011380f14fe4f68e8ce075cb6eccb796/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] /home/utkarsh/.gradle/caches/transforms-3/58dd3f4812eb78824b955d86d3508d52/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] /home/utkarsh/.gradle/caches/transforms-3/58dd3f4812eb78824b955d86d3508d52/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/e2ead5f317d22088c48cad1a61f8b969/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/e2ead5f317d22088c48cad1a61f8b969/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] /home/utkarsh/.gradle/caches/transforms-3/aabd96d17d3f8389713fa62fe78ebf8d/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] /home/utkarsh/.gradle/caches/transforms-3/aabd96d17d3f8389713fa62fe78ebf8d/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.6.0] /home/utkarsh/.gradle/caches/transforms-3/d41e8bf4b35ba9ac395bff8e37ad74bb/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.6.0] /home/utkarsh/.gradle/caches/transforms-3/d41e8bf4b35ba9ac395bff8e37ad74bb/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/385e466706e73bb3d73bbe6b4875519d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/385e466706e73bb3d73bbe6b4875519d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/74dede7469dde4ebb849523538d1356b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/74dede7469dde4ebb849523538d1356b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/5ce07e52a7d4e86d32024963e64ae55f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/5ce07e52a7d4e86d32024963e64ae55f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/f2489d9065f4dca5ca4b308de42fbf04/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/f2489d9065f4dca5ca4b308de42fbf04/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/a499c8d2b59af5c3d7b5f216dcb51a9d/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/a499c8d2b59af5c3d7b5f216dcb51a9d/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/0ee939d3497cce09e896af53913a88ae/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/0ee939d3497cce09e896af53913a88ae/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/412372332f980a5c4ef0364c55a99af0/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/412372332f980a5c4ef0364c55a99af0/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/47ac39755f246ef2ff54ad5b7942d42f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/47ac39755f246ef2ff54ad5b7942d42f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/e5a7f5c955953cc9d13feeef1215b998/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/e5a7f5c955953cc9d13feeef1215b998/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/9e273d98ab3096fcf193178fecca25fc/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/9e273d98ab3096fcf193178fecca25fc/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/f64967c674a30b5964ec360f3fe1fd1e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/f64967c674a30b5964ec360f3fe1fd1e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/1cbb9568b0ad18efcfa640a8dc80d6d7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/1cbb9568b0ad18efcfa640a8dc80d6d7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/aa8ac483add921dafa22eb66b84f2064/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/aa8ac483add921dafa22eb66b84f2064/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/bebc84e5611febee61e63b319d718ccf/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/bebc84e5611febee61e63b319d718ccf/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/164e3c0afb92a7e3b5c15f9935adbebd/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/164e3c0afb92a7e3b5c15f9935adbebd/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/d7a05e02feb8fce1e9d06c86faa7fd90/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/d7a05e02feb8fce1e9d06c86faa7fd90/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/49b48222c9092f86b8f1b7ce566730b4/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/49b48222c9092f86b8f1b7ce566730b4/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/utkarsh/.gradle/caches/transforms-3/c3ccb551a96d7464cbc7a567310b2d43/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/utkarsh/.gradle/caches/transforms-3/c3ccb551a96d7464cbc7a567310b2d43/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/d61520087bb53d23a4e3afad5636d15d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/d61520087bb53d23a4e3afad5636d15d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/a8199b6bb025d711471524267dd78014/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/a8199b6bb025d711471524267dd78014/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/ecb295b800ded09051f724a4ba193524/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/ecb295b800ded09051f724a4ba193524/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/3d0b12a6a2875ebc8055ad98f7863014/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/3d0b12a6a2875ebc8055ad98f7863014/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/7f4858d3b05a121bbfdbd0f3702fd854/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/7f4858d3b05a121bbfdbd0f3702fd854/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/b9bab58cadaff330d559da69256a0313/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/b9bab58cadaff330d559da69256a0313/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/4ed59577b3c31daa698d7cd9567771e1/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/4ed59577b3c31daa698d7cd9567771e1/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/utkarsh/.gradle/caches/transforms-3/79e57da9ef16725cd636178f64b7ce13/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/utkarsh/.gradle/caches/transforms-3/79e57da9ef16725cd636178f64b7ce13/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/9b72d3a0628617d3f17d9cb77d3f51cf/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/9b72d3a0628617d3f17d9cb77d3f51cf/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/utkarsh/.gradle/caches/transforms-3/0de8b80e80221d3f31c9086666059ce1/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/utkarsh/.gradle/caches/transforms-3/0de8b80e80221d3f31c9086666059ce1/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/de2279805fd1769856255174ea323925/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/de2279805fd1769856255174ea323925/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/a91d0e13601b70491790d353890fd533/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/a91d0e13601b70491790d353890fd533/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/eb096476208bed94cd51cc904aa804e3/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/eb096476208bed94cd51cc904aa804e3/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/87b6f924c6c766718f595823a69da52a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/87b6f924c6c766718f595823a69da52a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/aaa63957bf4d3c8a91ad1c399e9aa858/transformed/firebase-analytics-ktx-21.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/aaa63957bf4d3c8a91ad1c399e9aa858/transformed/firebase-analytics-ktx-21.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/639e0823074540ef2a177a192c9a5c19/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/639e0823074540ef2a177a192c9a5c19/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/442371f7a683427c1c3aa2b948983960/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/442371f7a683427c1c3aa2b948983960/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/utkarsh/.gradle/caches/transforms-3/9edb3184659a769cfd1a1e5ccb1b7663/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/utkarsh/.gradle/caches/transforms-3/9edb3184659a769cfd1a1e5ccb1b7663/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/utkarsh/.gradle/caches/transforms-3/ced682f124894883a886754fd3a9b895/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/utkarsh/.gradle/caches/transforms-3/ced682f124894883a886754fd3a9b895/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/utkarsh/.gradle/caches/transforms-3/a3b4638f085982b1d4469044739a2c58/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/utkarsh/.gradle/caches/transforms-3/a3b4638f085982b1d4469044739a2c58/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/27a2041208ad8bc99a080e7823bdbe82/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/27a2041208ad8bc99a080e7823bdbe82/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/198c3e9a1b8b08b984af19cf784ea90a/transformed/firebase-analytics-21.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/198c3e9a1b8b08b984af19cf784ea90a/transformed/firebase-analytics-21.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /home/utkarsh/.gradle/caches/transforms-3/356c723115c1b96a92d9a8294e755319/transformed/firebase-installations-17.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /home/utkarsh/.gradle/caches/transforms-3/356c723115c1b96a92d9a8294e755319/transformed/firebase-installations-17.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/0fc0f987d52bd58a9ec360021f242f48/transformed/firebase-common-20.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/0fc0f987d52bd58a9ec360021f242f48/transformed/firebase-common-20.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/1cbfa107755c83bdfee6de7c78e986d8/transformed/play-services-measurement-sdk-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/1cbfa107755c83bdfee6de7c78e986d8/transformed/play-services-measurement-sdk-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /home/utkarsh/.gradle/caches/transforms-3/691dd56c8ff08288b1ce50a9435449d2/transformed/firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /home/utkarsh/.gradle/caches/transforms-3/691dd56c8ff08288b1ce50a9435449d2/transformed/firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/utkarsh/.gradle/caches/transforms-3/a241533628e59bbbe136486110a9d426/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/utkarsh/.gradle/caches/transforms-3/a241533628e59bbbe136486110a9d426/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9062ac463cd037001933633ef261ebed/transformed/play-services-measurement-impl-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9062ac463cd037001933633ef261ebed/transformed/play-services-measurement-impl-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/utkarsh/.gradle/caches/transforms-3/7b0de162041d92dc9ece20eae86675d5/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/utkarsh/.gradle/caches/transforms-3/7b0de162041d92dc9ece20eae86675d5/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/b7e8946ace01c30b5a24b51ed11478d4/transformed/play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/b7e8946ace01c30b5a24b51ed11478d4/transformed/play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/db4528da83a2548ae09fd4618795cfd7/transformed/play-services-measurement-base-21.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/db4528da83a2548ae09fd4618795cfd7/transformed/play-services-measurement-base-21.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/utkarsh/.gradle/caches/transforms-3/9b1b7c546b170d3f6bd94796290dfa4e/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/utkarsh/.gradle/caches/transforms-3/9b1b7c546b170d3f6bd94796290dfa4e/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/utkarsh/.gradle/caches/transforms-3/0fd5fab4501b430158d311c8c354b03b/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/utkarsh/.gradle/caches/transforms-3/0fd5fab4501b430158d311c8c354b03b/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/utkarsh/.gradle/caches/transforms-3/d10e0a67e6cce9e2170f966c3470c152/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/utkarsh/.gradle/caches/transforms-3/d10e0a67e6cce9e2170f966c3470c152/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] /home/utkarsh/.gradle/caches/transforms-3/05e0e032afe8638653ef359082946af5/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/utkarsh/.gradle/caches/transforms-3/05e0e032afe8638653ef359082946af5/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /home/utkarsh/.gradle/caches/transforms-3/7abcdb52a31097d7928346f5971a74b4/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /home/utkarsh/.gradle/caches/transforms-3/7abcdb52a31097d7928346f5971a74b4/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/b6241b19bde17d5fd7300311ce753f80/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/b6241b19bde17d5fd7300311ce753f80/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/740f68c528a27b193c31975215d254aa/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/740f68c528a27b193c31975215d254aa/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/942187b9034be648cd10d68b3b07e873/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/942187b9034be648cd10d68b3b07e873/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/301f5298453c00ec6aa21911a1cf1f86/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/301f5298453c00ec6aa21911a1cf1f86/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/aaf1031b7c089ab524eee885bb44d5e8/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/aaf1031b7c089ab524eee885bb44d5e8/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/9cffc761fb4b3d6bc453ee348ecf8fc4/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/9cffc761fb4b3d6bc453ee348ecf8fc4/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/ba20206a3976f0ed5dc11d00c9389e77/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/ba20206a3976f0ed5dc11d00c9389e77/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/8b769162006497cfd063a1a43d7e7d5e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/8b769162006497cfd063a1a43d7e7d5e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/8e05fef9da720561fd085b6c9609646d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/8e05fef9da720561fd085b6c9609646d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/ba72173ccc9319646d5ca79116c92fb0/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/ba72173ccc9319646d5ca79116c92fb0/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/4f8bd1b382e936853665a3a65dfbc6a5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/4f8bd1b382e936853665a3a65dfbc6a5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/fcf1c39a2553fa7b01947143cbea7b81/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/fcf1c39a2553fa7b01947143cbea7b81/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/27fece238f81d5f5874aa18f367d8269/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/27fece238f81d5f5874aa18f367d8269/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/387f730b03db6088c5490c53257d1068/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/387f730b03db6088c5490c53257d1068/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/d972e2b9a2d3231f9c30d13d66704161/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/utkarsh/.gradle/caches/transforms-3/d972e2b9a2d3231f9c30d13d66704161/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/331f56f37792526653d9ae5b0da2e26b/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/331f56f37792526653d9ae5b0da2e26b/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/5cc2c19a797f15578dd78c605b044c91/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/5cc2c19a797f15578dd78c605b044c91/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/a82c41e2fcd361030c7151571854c3f2/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/a82c41e2fcd361030c7151571854c3f2/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/utkarsh/.gradle/caches/transforms-3/fe29a54af3c84b01983bf8b1f69bd3b1/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/utkarsh/.gradle/caches/transforms-3/fe29a54af3c84b01983bf8b1f69bd3b1/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/f3c7fc7a692a39f1848cd26bc667bd42/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/f3c7fc7a692a39f1848cd26bc667bd42/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/1070233f650367c5d4a3ef19df90b692/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/1070233f650367c5d4a3ef19df90b692/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/92931c26ad08dd7deb5f4671c5e649dd/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/92931c26ad08dd7deb5f4671c5e649dd/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/75bb41cd7661e79b849846ab63e28379/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/75bb41cd7661e79b849846ab63e28379/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/7225d2e546159bd9053e83d9c293c586/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/7225d2e546159bd9053e83d9c293c586/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/302b2ca992566a4cea119a1a5517cd16/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/302b2ca992566a4cea119a1a5517cd16/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/37964fc6f6679bb7fcdea4331bf4b262/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/37964fc6f6679bb7fcdea4331bf4b262/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/utkarsh/.gradle/caches/transforms-3/ea04a689ed464f026d5fe0132e864726/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/utkarsh/.gradle/caches/transforms-3/ea04a689ed464f026d5fe0132e864726/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/bf4d3f1154ab7888facdb7c8da9fdbd2/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/utkarsh/.gradle/caches/transforms-3/bf4d3f1154ab7888facdb7c8da9fdbd2/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/utkarsh/.gradle/caches/transforms-3/b233079611b5ea16e1448e00f286d3ca/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/utkarsh/.gradle/caches/transforms-3/b233079611b5ea16e1448e00f286d3ca/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] /home/utkarsh/.gradle/caches/transforms-3/f24b097486ece9c74ab6352ff5a1cb7d/transformed/firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] /home/utkarsh/.gradle/caches/transforms-3/f24b097486ece9c74ab6352ff5a1cb7d/transformed/firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/d755a1d3e9e21bf1d125d88d388e3853/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/d755a1d3e9e21bf1d125d88d388e3853/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/d1822ebe0e3f8e4d4a0df1883531c616/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/d1822ebe0e3f8e4d4a0df1883531c616/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/aab3c179000643bbfb429e707dd65f1c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/aab3c179000643bbfb429e707dd65f1c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/9af6b051251fe69c8e1673d849ab7cb0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/utkarsh/.gradle/caches/transforms-3/9af6b051251fe69c8e1673d849ab7cb0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 INJECTED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml
 INJECTED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -215,49 +299,185 @@ INJECTED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidM
 		INJECTED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml
 		ADDED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml
 		INJECTED from /home/utkarsh/AndroidStudioProjects/Cartopia/app/src/main/AndroidManifest.xml
-provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/412372332f980a5c4ef0364c55a99af0/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/a8199b6bb025d711471524267dd78014/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/a8199b6bb025d711471524267dd78014/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/b9bab58cadaff330d559da69256a0313/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/b9bab58cadaff330d559da69256a0313/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/412372332f980a5c4ef0364c55a99af0/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
-	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/412372332f980a5c4ef0364c55a99af0/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/aaa63957bf4d3c8a91ad1c399e9aa858/transformed/firebase-analytics-ktx-21.3.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/639e0823074540ef2a177a192c9a5c19/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/639e0823074540ef2a177a192c9a5c19/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /home/utkarsh/.gradle/caches/transforms-3/356c723115c1b96a92d9a8294e755319/transformed/firebase-installations-17.1.3/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /home/utkarsh/.gradle/caches/transforms-3/356c723115c1b96a92d9a8294e755319/transformed/firebase-installations-17.1.3/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/0fc0f987d52bd58a9ec360021f242f48/transformed/firebase-common-20.3.3/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/0fc0f987d52bd58a9ec360021f242f48/transformed/firebase-common-20.3.3/AndroidManifest.xml:32:9-36:35
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/412372332f980a5c4ef0364c55a99af0/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/aaa63957bf4d3c8a91ad1c399e9aa858/transformed/firebase-analytics-ktx-21.3.0/AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/0fc0f987d52bd58a9ec360021f242f48/transformed/firebase-common-20.3.3/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/0fc0f987d52bd58a9ec360021f242f48/transformed/firebase-common-20.3.3/AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/412372332f980a5c4ef0364c55a99af0/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/aaa63957bf4d3c8a91ad1c399e9aa858/transformed/firebase-analytics-ktx-21.3.0/AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/aaa63957bf4d3c8a91ad1c399e9aa858/transformed/firebase-analytics-ktx-21.3.0/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/aaa63957bf4d3c8a91ad1c399e9aa858/transformed/firebase-analytics-ktx-21.3.0/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/aaa63957bf4d3c8a91ad1c399e9aa858/transformed/firebase-analytics-ktx-21.3.0/AndroidManifest.xml:12:17-126
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/639e0823074540ef2a177a192c9a5c19/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/639e0823074540ef2a177a192c9a5c19/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/639e0823074540ef2a177a192c9a5c19/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:15:17-113
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /home/utkarsh/.gradle/caches/transforms-3/356c723115c1b96a92d9a8294e755319/transformed/firebase-installations-17.1.3/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /home/utkarsh/.gradle/caches/transforms-3/356c723115c1b96a92d9a8294e755319/transformed/firebase-installations-17.1.3/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9062ac463cd037001933633ef261ebed/transformed/play-services-measurement-impl-21.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9062ac463cd037001933633ef261ebed/transformed/play-services-measurement-impl-21.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/b7e8946ace01c30b5a24b51ed11478d4/transformed/play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/b7e8946ace01c30b5a24b51ed11478d4/transformed/play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /home/utkarsh/.gradle/caches/transforms-3/356c723115c1b96a92d9a8294e755319/transformed/firebase-installations-17.1.3/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /home/utkarsh/.gradle/caches/transforms-3/356c723115c1b96a92d9a8294e755319/transformed/firebase-installations-17.1.3/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9062ac463cd037001933633ef261ebed/transformed/play-services-measurement-impl-21.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9062ac463cd037001933633ef261ebed/transformed/play-services-measurement-impl-21.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/b7e8946ace01c30b5a24b51ed11478d4/transformed/play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/b7e8946ace01c30b5a24b51ed11478d4/transformed/play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9062ac463cd037001933633ef261ebed/transformed/play-services-measurement-impl-21.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9062ac463cd037001933633ef261ebed/transformed/play-services-measurement-impl-21.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/b7e8946ace01c30b5a24b51ed11478d4/transformed/play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/b7e8946ace01c30b5a24b51ed11478d4/transformed/play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9062ac463cd037001933633ef261ebed/transformed/play-services-measurement-impl-21.3.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9062ac463cd037001933633ef261ebed/transformed/play-services-measurement-impl-21.3.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/utkarsh/.gradle/caches/transforms-3/7b0de162041d92dc9ece20eae86675d5/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/utkarsh/.gradle/caches/transforms-3/7b0de162041d92dc9ece20eae86675d5/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/b7e8946ace01c30b5a24b51ed11478d4/transformed/play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/b7e8946ace01c30b5a24b51ed11478d4/transformed/play-services-measurement-sdk-api-21.3.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9961e8cdd229dca120f0a874690d7de3/transformed/play-services-measurement-api-21.3.0/AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.3] /home/utkarsh/.gradle/caches/transforms-3/356c723115c1b96a92d9a8294e755319/transformed/firebase-installations-17.1.3/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.3] /home/utkarsh/.gradle/caches/transforms-3/356c723115c1b96a92d9a8294e755319/transformed/firebase-installations-17.1.3/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.3] /home/utkarsh/.gradle/caches/transforms-3/356c723115c1b96a92d9a8294e755319/transformed/firebase-installations-17.1.3/AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/0fc0f987d52bd58a9ec360021f242f48/transformed/firebase-common-20.3.3/AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/0fc0f987d52bd58a9ec360021f242f48/transformed/firebase-common-20.3.3/AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/0fc0f987d52bd58a9ec360021f242f48/transformed/firebase-common-20.3.3/AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/0fc0f987d52bd58a9ec360021f242f48/transformed/firebase-common-20.3.3/AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/0fc0f987d52bd58a9ec360021f242f48/transformed/firebase-common-20.3.3/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /home/utkarsh/.gradle/caches/transforms-3/0fc0f987d52bd58a9ec360021f242f48/transformed/firebase-common-20.3.3/AndroidManifest.xml:26:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9062ac463cd037001933633ef261ebed/transformed/play-services-measurement-impl-21.3.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/9062ac463cd037001933633ef261ebed/transformed/play-services-measurement-impl-21.3.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] /home/utkarsh/.gradle/caches/transforms-3/ff396d0f34ae6739ac29c95bd6eb1b69/transformed/play-services-measurement-21.3.0/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/utkarsh/.gradle/caches/transforms-3/d10e0a67e6cce9e2170f966c3470c152/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/utkarsh/.gradle/caches/transforms-3/d10e0a67e6cce9e2170f966c3470c152/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/utkarsh/.gradle/caches/transforms-3/d10e0a67e6cce9e2170f966c3470c152/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/ba20206a3976f0ed5dc11d00c9389e77/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/1070233f650367c5d4a3ef19df90b692/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/1070233f650367c5d4a3ef19df90b692/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/302b2ca992566a4cea119a1a5517cd16/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/utkarsh/.gradle/caches/transforms-3/302b2ca992566a4cea119a1a5517cd16/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/ba20206a3976f0ed5dc11d00c9389e77/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/ba20206a3976f0ed5dc11d00c9389e77/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/ba20206a3976f0ed5dc11d00c9389e77/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/ba20206a3976f0ed5dc11d00c9389e77/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/412372332f980a5c4ef0364c55a99af0/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/ba20206a3976f0ed5dc11d00c9389e77/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/412372332f980a5c4ef0364c55a99af0/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/ba20206a3976f0ed5dc11d00c9389e77/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/412372332f980a5c4ef0364c55a99af0/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/utkarsh/.gradle/caches/transforms-3/ba20206a3976f0ed5dc11d00c9389e77/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/331f56f37792526653d9ae5b0da2e26b/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/331f56f37792526653d9ae5b0da2e26b/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/331f56f37792526653d9ae5b0da2e26b/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
 permission#com.example.cartopia.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/331f56f37792526653d9ae5b0da2e26b/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/331f56f37792526653d9ae5b0da2e26b/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/331f56f37792526653d9ae5b0da2e26b/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/331f56f37792526653d9ae5b0da2e26b/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/331f56f37792526653d9ae5b0da2e26b/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
 uses-permission#com.example.cartopia.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/331f56f37792526653d9ae5b0da2e26b/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.9.0] /home/utkarsh/.gradle/caches/transforms-3/331f56f37792526653d9ae5b0da2e26b/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/a8199b6bb025d711471524267dd78014/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/1070233f650367c5d4a3ef19df90b692/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/a8199b6bb025d711471524267dd78014/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/1070233f650367c5d4a3ef19df90b692/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/a8199b6bb025d711471524267dd78014/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/utkarsh/.gradle/caches/transforms-3/1070233f650367c5d4a3ef19df90b692/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

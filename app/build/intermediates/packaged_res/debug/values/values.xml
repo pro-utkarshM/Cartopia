@@ -9,6 +9,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Cartopia</string>
+    <string name="default_web_client_id" translatable="false">466581228749-qdak8tnpjem9kl583t3cn8t8vtt8n70h.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">466581228749</string>
+    <string name="google_api_key" translatable="false">AIzaSyDuLYtwR3gLr6wh-Mvowqe3hQ2iFGMXl-o</string>
+    <string name="google_app_id" translatable="false">1:466581228749:android:de6e88de853edd132fed84</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDuLYtwR3gLr6wh-Mvowqe3hQ2iFGMXl-o</string>
+    <string name="google_storage_bucket" translatable="false">cartopia-b3f20.appspot.com</string>
+    <string name="project_id" translatable="false">cartopia-b3f20</string>
     <style name="Theme.Cartopia" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>

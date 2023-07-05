@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.cartopia.app-mergeDebugResources-27:/values-v25/values-v25.xml",
+            "outputFile": "com.example.cartopia.app-mergeDebugResources-30:/values-v25/values-v25.xml",
             "map": [
                 {
-                    "source": "/home/utkarsh/.gradle/caches/transforms-3/58dd3f4812eb78824b955d86d3508d52/transformed/appcompat-1.6.1/res/values-v25/values-v25.xml",
+                    "source": "/home/utkarsh/.gradle/caches/transforms-3/a3b4638f085982b1d4469044739a2c58/transformed/appcompat-1.6.1/res/values-v25/values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",
